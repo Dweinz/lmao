@@ -16,3 +16,4 @@ function StartConnection (){
     console.log("connected");
   });
 }
+StartConnection();
